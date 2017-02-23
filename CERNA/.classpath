@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry exported="true" kind="lib" path="lib/mysql/mysql-connector-java-5.1.20-bin.jar"/>
+	<classpathentry kind="lib" path="lib/jasper/jasperreports-5.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/jasper/iText-2.1.7.js1.jar" sourcepath="lib/jasper/iText-2.1.7.js1.jar"/>
+	<classpathentry kind="lib" path="lib/jasper/groovy-all-2.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/jasper/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/jasper/commons-javaflow-20060411.jar"/>
+	<classpathentry kind="lib" path="lib/jasper/commons-digester-2.1.jar"/>
+	<classpathentry kind="lib" path="lib/jasper/commons-collections-2.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/jasper/commons-beanutils-1.8.0.jar"/>
+	<classpathentry kind="lib" path="lib/chart/jfreechart-1.0.14.jar"/>
+	<classpathentry kind="lib" path="lib/chart/jcommon-1.0.17.jar"/>
+	<classpathentry kind="lib" path="lib/chart/itextpdf-5.3.3.jar"/>
+	<classpathentry kind="lib" path="lib/jasper/jdt-compiler-3.1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
